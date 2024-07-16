@@ -1,2 +1,2 @@
 # Vite-Frontend
-A sample application for testing Vite
+A sample to do application for testing Vite
